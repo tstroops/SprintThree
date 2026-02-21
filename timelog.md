@@ -37,13 +37,13 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |2/19|4:26|group|View models|60|
 |2/20|8:50|personal|application networking|60|
 |2/20|2:00|group|notebooks and notes implementation with authentication|143|
-||||||
+|2/21|2:05|personal|networking app|60|
 
 ## Sprint Totals
 
 |Category                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
+|IM - Individual Module         |4:00|
 |TP - Team Project              |10:00|
 |MTG - Class Meetings           |4:00|
-|**TOTAL**                      |                          |
+|**TOTAL**                      |18:00|
